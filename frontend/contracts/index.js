@@ -1,4 +1,4 @@
-export const CONTRACT_ADDRESS = "0x4e67766Bf8Beee3dE0a33509f64EFa73d69d29c3";
+export const CONTRACT_ADDRESS = "";
 export const ABI = [
 	{
 		"inputs": [],
@@ -256,23 +256,13 @@ export const ABI = [
 	{
 		"inputs": [
 			{
-				"internalType": "uint256",
+			"internalType": "uint256",
 				"name": "numDays",
 				"type": "uint256"
 			}
 		],
 		"name": "stakeEther",
-		"outputs": [],
-		"stateMutability": "payable",
-		"type": "function"
-	},
-	{
-		"inputs": [
-			{
-				"internalType": "uint256",
-				"name": "",
-				"type": "uint256"
-			}
+		
 		],
 		"name": "tiers",
 		"outputs": [

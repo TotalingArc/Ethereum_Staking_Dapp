@@ -9,7 +9,7 @@ export default function StakingData() {
       </section>
       <section className={styles.stakingData}>
         <span>Total Renewal Paid</span>
-        <span className={styles.stakingData_value}>$1,632,651</span>
+        <span className={styles.stakingData_value}>$</span>
       </section>
       <section className={styles.stakingData}>
         <span>Stakers</span>
